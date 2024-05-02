@@ -1,0 +1,5 @@
+package dev.durgesh.BookMyShow.Model.Constant;
+
+public enum MovieFeature {
+    TWOD, THREED, IMAX, DOLBY;
+}
